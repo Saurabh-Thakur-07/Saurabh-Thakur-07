@@ -17,4 +17,4 @@ About Me :
 ## Stats: 
 <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Saurabh-Thakur-07&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&hide_title=false" /> 
 <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Thakur-07&layout=compact&theme=nightowl&hide_border=false&hide_title=true" />
-<img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay-nrb&theme=nightowl"/>
+<img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Thakur-07&theme=nightowl"/>
