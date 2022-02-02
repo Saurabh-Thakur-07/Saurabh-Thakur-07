@@ -3,8 +3,8 @@
 
 About Me :
 
-- 🔭 I’m currently working on <a href="https://github.com/Saurabh-Thakur-07/Web-Scraping">Web Scraping using Javascript</a> 
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate in App Dev
 - 🤔 I’m looking for help with Server side programming
 - 📫 How to reach me: saurabhthakurmeerut@gmail.com
