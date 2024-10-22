@@ -54,8 +54,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-![Saurabh-Thakur-07's Stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Thakur-07&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-![Saurabh-Thakur-07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Thakur-07&theme=blueberry&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-Thakur-07&theme=blueberry&show_icons=true&hide_border=false&count_private=true" alt="Saurabh-Thakur-07's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Thakur-07&theme=blueberry&hide_border=false" alt="Saurabh-Thakur-07's Streak" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Thakur-07&theme=blueberry&show_icons=true&hide_border=false&layout=compact" alt="Saurabh-Thakur-07's Top Languages" />
 </p>
